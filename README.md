@@ -1,2 +1,0 @@
-# management-pro-app
-ManagementPro
